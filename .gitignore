@@ -1,0 +1,6 @@
+.idea/
+target/
+.gradle/
+out/
+build/
+credentials.yml
